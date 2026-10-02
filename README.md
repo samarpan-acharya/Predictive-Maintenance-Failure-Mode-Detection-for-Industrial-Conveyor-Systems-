@@ -218,3 +218,14 @@ matlab -batch "main; exit;"
 ```
 
 All summary tables and performance metrics will be printed to the command window, and updated figures will be saved automatically in the `results/` directory.
+## Author
+
+**Samarpan Acharya**
+
+B.Tech, Electronics and Communication Engineering
+
+National Institute of Technology Rourkela
+
+## License
+
+This project is licensed under the **MIT License**.
